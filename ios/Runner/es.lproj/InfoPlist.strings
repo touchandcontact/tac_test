@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  Runner
+
+  Created by Intent Dev on 07/03/23.
+  
+*/
+FDAllFilesDownloadedMessage = "All files have been downloaded";
+NSContactsUsageDescription = "TAC needs access to your contact list to save TAC contacts in your address book";
+NSCameraUsageDescription = "TAC wants access to your camera to scan business cards and to change your profile photo";
+NSPhotoLibraryUsageDescription = "TAC wants to access your gallery to change your profile photo";

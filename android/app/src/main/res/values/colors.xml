@@ -1,0 +1,5 @@
+<resources>
+    <color name="background" type="color">#ffffff</color>
+    <color name="primary" type="color">#01b0b3</color>
+    <color name="nav_color" type="color">#ffffff</color>
+</resources>

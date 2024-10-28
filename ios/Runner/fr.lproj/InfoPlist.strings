@@ -1,0 +1,8 @@
+/* 
+  InfoPlist.strings
+  Runner
+
+  Created by Intent Dev on 07/03/23.
+  
+*/
+FDAllFilesDownloadedMessage = "All files have been downloaded";

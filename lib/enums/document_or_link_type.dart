@@ -1,0 +1,1 @@
+enum DocumentOrLinkType { document, link }
